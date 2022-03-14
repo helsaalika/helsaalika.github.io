@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Membaca File Text</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            $.get('headline.txt',function(obj){
+                var headline=obj.split('\n');
+                var str="";
+    
+                for(var i=0;i<headline.length;i++){
+                    str+=headline[i]+'<br>';
+                }
+    
+                $('#headline_teks').html(str);
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        $(function(){
+            $.get('headline.json',function(obj){
+                var str="<table border=1>";
+                str+="<tr><td>No</td><td>Judul Headline</td></tr>";
+                $.each(obj,function(n,data){
+                    str+="<tr><td>"+(n+1)+"</td>";
+                    str+="<td>"+data.judul+"</td></tr>";
+                });
+                str+="</table>";
+                $('#headline_json'.html(str));
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Headline Republika Online</h1>
+    <p>Menampilkan dari Txt</p><br>
+    <div id="headline_teks"></div>
+    <p>menampilkan dari json</p><br>
+    <div id="headline_json"></div>
+</body>
+</html>
