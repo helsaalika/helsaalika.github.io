@@ -1,0 +1,802 @@
+[
+      {
+            "ranking": "1",
+            "tahun": "1984",
+            "judul": "Ghostbusters",
+            "genre": "Comedy  \u2022  Fantasy Comedy  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1984/thumbs/ghostbusters_ver1.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "2",
+            "tahun": "1987",
+            "judul": "The Princess Bride",
+            "genre": "Adventure Comedy  \u2022  Adventure  \u2022  Based-on-20th-Century-Literature",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1987/thumbs/6B9E3DF572-312e.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "3",
+            "tahun": "2001",
+            "judul": "The Lord of the Rings: The Fellowship of the Ring",
+            "genre": "Adventure  \u2022  Based-on-20th-Century-Literature  \u2022  Ensemble Film",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2001/thumbs/8ACFA5F3AA-d143.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "4",
+            "tahun": "2003",
+            "judul": "The Lord of the Rings: The Return of the King",
+            "genre": "Adventure  \u2022  Based-on-20th-Century-Literature  \u2022  Ensemble Film",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2003/thumbs/lord_of_the_rings_the_return_of_the_king_ver4.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "5",
+            "tahun": "1993",
+            "judul": "Jurassic Park",
+            "genre": "Action  \u2022  Based-on-20th-Century-Literature  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1993/thumbs/D7E6B0DA68-9d12.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "6",
+            "tahun": "1995",
+            "judul": "Toy Story",
+            "genre": "Adventure  \u2022  Animation  \u2022  Comedy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1995/thumbs/C823687458-17da.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "7",
+            "tahun": "2002",
+            "judul": "The Lord of the Rings: The Two Towers",
+            "genre": "Adventure  \u2022  Based-on-20th-Century-Literature  \u2022  Ensemble Film",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2002/thumbs/FB38F40EC5-b65a.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "8",
+            "tahun": "1957",
+            "judul": "The Seventh Seal",
+            "genre": "Drama  \u2022  Fantasy  \u2022  Foreign Language Film",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1957/thumbs/9507C54494-ab92.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "9",
+            "tahun": "1993",
+            "judul": "Groundhog Day",
+            "genre": "Comedy  \u2022  Fantasy Comedy  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1993/thumbs/2F61D17D40-1818.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "10",
+            "tahun": "1946",
+            "judul": "A Matter of Life and Death",
+            "genre": "Fantasy  \u2022  Romance  \u2022  Romantic Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1946/thumbs/a_matter_of_life_and_death_ver1.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "11",
+            "tahun": "1994",
+            "judul": "The Lion King",
+            "genre": "Adventure  \u2022  Animated Musical  \u2022  Animation",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1994/thumbs/6E9C315079-7f4a.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "12",
+            "tahun": "1988",
+            "judul": "My Neighbor Totoro",
+            "genre": "Adventure  \u2022  Animation  \u2022  Anime",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1988/thumbs/6DB86C040E-097d.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "13",
+            "tahun": "1946",
+            "judul": "It's a Wonderful Life",
+            "genre": "Americana  \u2022  Comedy Drama  \u2022  Drama",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1946/thumbs/996337DF9D-082c.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "14",
+            "tahun": "1939",
+            "judul": "The Wizard of Oz",
+            "genre": "Adventure  \u2022  Based-on-19th-Century-Literature  \u2022  Based-on-Theatre",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1939/thumbs/0830295BAC-2ba3.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "15",
+            "tahun": "1982",
+            "judul": "E.T.: The Extra-Terrestrial",
+            "genre": "Adventure Drama  \u2022  Adventure  \u2022  Drama",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1982/thumbs/6B86766C53-7208.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "16",
+            "tahun": "1971",
+            "judul": "Willy Wonka & the Chocolate Factory",
+            "genre": "Adventure  \u2022  Based-on-20th-Century-Literature  \u2022  Coming-of-Age",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1971/thumbs/CC6089AA77-1951.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "17",
+            "tahun": "1984",
+            "judul": "Nausica\u00e4 of the Valley of the Wind",
+            "genre": "Adventure  \u2022  Animation  \u2022  Anime",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1984/thumbs/DBF5E988AE-22f6.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "18",
+            "tahun": "1953",
+            "judul": "Ugetsu",
+            "genre": "Costume Romance  \u2022  Drama  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1953/thumbs/ugetsu_monogatari_ver3.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "19",
+            "tahun": "2001",
+            "judul": "Spirited Away",
+            "genre": "Adventure  \u2022  Animation  \u2022  Anime",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2001/thumbs/11D542FC24-41ba.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "20",
+            "tahun": "2006",
+            "judul": "Pan's Labyrinth",
+            "genre": "Drama  \u2022  Fairy Tales and Legends  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2006/thumbs/pans_labyrinth.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "21",
+            "tahun": "1999",
+            "judul": "The Green Mile",
+            "genre": "Based-on-20th-Century-Literature  \u2022  Drama  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1999/thumbs/D52F787A06-ca1f.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "22",
+            "tahun": "1977",
+            "judul": "Suspiria",
+            "genre": "Fantasy  \u2022  Gothic Film  \u2022  Horror",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1977/thumbs/81A99B9336-5579.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "23",
+            "tahun": "2018",
+            "judul": "Avengers: Infinity War",
+            "genre": "Action  \u2022  Adventure  \u2022  Alien Invasion Films",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2018/thumbs/4BADED9B4C-1427.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "24",
+            "tahun": "1962",
+            "judul": "The Exterminating Angel",
+            "genre": "Comedy Drama  \u2022  Comedy of Manners  \u2022  Drama",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1962/thumbs/the_exterminating_angel_ver1.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "25",
+            "tahun": "2001",
+            "judul": "Monsters, Inc.",
+            "genre": "Animation  \u2022  Comedy  \u2022  Family-Oriented Comedy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2001/thumbs/7DB3B360D4-2641.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "26",
+            "tahun": "1987",
+            "judul": "Wings of Desire",
+            "genre": "Fantasy  \u2022  Foreign Language Film  \u2022  Magic Realism",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1987/thumbs/D98476A333-1c34.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "27",
+            "tahun": "1999",
+            "judul": "Toy Story 2",
+            "genre": "Adventure  \u2022  Animation  \u2022  Comedy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1999/thumbs/44C12B9B24-57d9.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "28",
+            "tahun": "2019",
+            "judul": "Avengers: Endgame",
+            "genre": "Action  \u2022  Adventure  \u2022  Alien Invasion Films",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2019/thumbs/7CC85B7D67-7202.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "29",
+            "tahun": "1986",
+            "judul": "Castle in the Sky",
+            "genre": "Adventure  \u2022  Animation  \u2022  Anime",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1986/thumbs/D9B986EA8C-e962.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "30",
+            "tahun": "1992",
+            "judul": "Aladdin",
+            "genre": "Adventure  \u2022  Animated Musical  \u2022  Animation",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1992/thumbs/D7F6957206-7eb8.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "31",
+            "tahun": "1990",
+            "judul": "Edward Scissorhands",
+            "genre": "Comedy Drama  \u2022  Drama  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1990/thumbs/F30E237A21-eaa5.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "32",
+            "tahun": "1988",
+            "judul": "Beetlejuice",
+            "genre": "Black Comedy  \u2022  Comedy  \u2022  Fantasy Comedy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1988/thumbs/5284EC7FE7-ec30.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "33",
+            "tahun": "1992",
+            "judul": "Army of Darkness",
+            "genre": "Comedy  \u2022  Fantasy  \u2022  Horror Comedy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1992/thumbs/0214D89563-8037.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "34",
+            "tahun": "1997",
+            "judul": "Princess Mononoke",
+            "genre": "Adventure  \u2022  Animation  \u2022  Anime",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1997/thumbs/princess_mononoke_ver3.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "35",
+            "tahun": "1988",
+            "judul": "Who Framed Roger Rabbit",
+            "genre": "Animation  \u2022  Comedy  \u2022  Detective Film",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1988/thumbs/A0B567F56D-bb51.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "36",
+            "tahun": "2010",
+            "judul": "Toy Story 3",
+            "genre": "Adventure Comedy  \u2022  Adventure  \u2022  Animation",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2010/thumbs/922F4685CB-98b2.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "37",
+            "tahun": "2017",
+            "judul": "Thor: Ragnarok",
+            "genre": "Action  \u2022  Adventure  \u2022  Based-on-Comics",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2017/thumbs/EBB03D2335-0e6b.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "38",
+            "tahun": "1993",
+            "judul": "The Nightmare Before Christmas",
+            "genre": "Animated Musical  \u2022  Animation  \u2022  Family-Oriented Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1993/thumbs/nightmare_before_christmas_ver5.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "39",
+            "tahun": "1999",
+            "judul": "Being John Malkovich",
+            "genre": "Comedy  \u2022  Fantasy Comedy  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1999/thumbs/35E60AF268-0be5.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "40",
+            "tahun": "1988",
+            "judul": "Big",
+            "genre": "Comedy  \u2022  Coming-of-Age  \u2022  Fantasy Comedy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1988/thumbs/C68C6CEE63-404b.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "41",
+            "tahun": "1985",
+            "judul": "The Purple Rose of Cairo",
+            "genre": "Comedy  \u2022  Fantasy Comedy  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1985/thumbs/purple_rose_of_cairo.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "42",
+            "tahun": "2003",
+            "judul": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "genre": "Adventure Comedy  \u2022  Adventure  \u2022  Costume Adventure",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2003/thumbs/97FB9FEC09-0271.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "43",
+            "tahun": "1921",
+            "judul": "The Phantom Carriage",
+            "genre": "Drama  \u2022  Fairy Tales and Legends  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1921/thumbs/73BA49C4B0-435e.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "44",
+            "tahun": "1979",
+            "judul": "All That Jazz",
+            "genre": "Drama  \u2022  Fantasy  \u2022  Jukebox Musical",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1979/thumbs/all_that_jazz_ver2.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "45",
+            "tahun": "1946",
+            "judul": "Beauty and the Beast",
+            "genre": "Fairy Tales and Legends  \u2022  Fantasy  \u2022  Foreign Language Film",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1946/thumbs/beauty_and_the_beast_ver5.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "46",
+            "tahun": "1989",
+            "judul": "Kiki's Delivery Service",
+            "genre": "Adventure  \u2022  Animation  \u2022  Anime",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1989/thumbs/kikis_delivery_service_ver5.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "47",
+            "tahun": "2021",
+            "judul": "Spider-Man: No Way Home",
+            "genre": "Action  \u2022  Adventure  \u2022  Based-on-Comics",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2021/thumbs/EC1B60E90E-2f8d.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "48",
+            "tahun": "1986",
+            "judul": "Big Trouble in Little China",
+            "genre": "Action  \u2022  Action Comedy  \u2022  Comedy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1986/thumbs/D1C9267920-8e12.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "49",
+            "tahun": "2010",
+            "judul": "Scott Pilgrim vs. the World",
+            "genre": "Action Comedy  \u2022  Action  \u2022  Based-on-Comics",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2010/thumbs/AE30F05835-b5b8.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "50",
+            "tahun": "2000",
+            "judul": "X-Men",
+            "genre": "Action  \u2022  Based-on-Comics  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2000/thumbs/A1BB99C9D2-f79f.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "51",
+            "tahun": "2004",
+            "judul": "Harry Potter and the Prisoner of Azkaban",
+            "genre": "Adventure  \u2022  Family-Oriented Adventure  \u2022  Family-Oriented Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2004/thumbs/0B78FA8D5E-7957.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "52",
+            "tahun": "2016",
+            "judul": "Your Name",
+            "genre": "Animation  \u2022  Anime  \u2022  Coming-of-Age",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2016/thumbs/4B15C8532A-fd65.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "53",
+            "tahun": "1977",
+            "judul": "Eraserhead",
+            "genre": "Avant-garde / Experimental  \u2022  Body Horror  \u2022  Dystopian Film",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1977/thumbs/185269423E-249f.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "54",
+            "tahun": "2004",
+            "judul": "Howl's Moving Castle",
+            "genre": "Adventure  \u2022  Animation  \u2022  Anime",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2004/thumbs/470830D427-e712.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "55",
+            "tahun": "1977",
+            "judul": "House",
+            "genre": "Avant-garde / Experimental  \u2022  Comedy  \u2022  Fantasy Comedy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1977/thumbs/E24174DEBB-bee8.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "56",
+            "tahun": "1992",
+            "judul": "Porco Rosso",
+            "genre": "Adventure  \u2022  Animation  \u2022  Anime",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1992/thumbs/porco_rosso_ver8.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "57",
+            "tahun": "1991",
+            "judul": "Beauty and the Beast",
+            "genre": "Animated Musical  \u2022  Animation  \u2022  Fairy Tales and Legends",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1991/thumbs/33C000CDEF-e4fa.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "58",
+            "tahun": "1995",
+            "judul": "The City of Lost Children",
+            "genre": "Adventure  \u2022  Cyberpunk / Tech Noir  \u2022  Dystopian Film",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1995/thumbs/3348899B42-ece2.JPG",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "59",
+            "tahun": "1999",
+            "judul": "Dogma",
+            "genre": "Adventure Comedy  \u2022  Adventure  \u2022  Apocalyptic Film",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1999/thumbs/36BF3CC9DA-4935.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "60",
+            "tahun": "1964",
+            "judul": "Kwaidan",
+            "genre": "Anthology Film  \u2022  Based-on-20th-Century-Literature  \u2022  Costume Horror",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1964/thumbs/10718281C0-de48.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "61",
+            "tahun": "2001",
+            "judul": "Shrek",
+            "genre": "Animation  \u2022  Comedy  \u2022  Fairy Tales and Legends",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2001/thumbs/264BDE604D-4d5e.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "62",
+            "tahun": "2012",
+            "judul": "The Cabin in the Woods",
+            "genre": "Black Comedy  \u2022  Fantasy  \u2022  Horror Comedy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2012/thumbs/E36CEDB7A3-d3b2.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "63",
+            "tahun": "2017",
+            "judul": "Coco",
+            "genre": "Adventure Comedy  \u2022  Adventure  \u2022  Animated Musical",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2017/thumbs/F742CBE4EF-ea54.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "64",
+            "tahun": "2011",
+            "judul": "Harry Potter and the Deathly Hallows: Part 2",
+            "genre": "Action  \u2022  Adventure  \u2022  Based-on-21st-Century-Literature",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2011/thumbs/A1720C109A-c962.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "65",
+            "tahun": "2003",
+            "judul": "Big Fish",
+            "genre": "Based-on-20th-Century-Literature  \u2022  Comedy Drama  \u2022  Drama",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2003/thumbs/7A639DC632-2769.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "66",
+            "tahun": "1926",
+            "judul": "Faust: A German Folk Legend",
+            "genre": "Drama  \u2022  Fantasy  \u2022  Foreign Language Film",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1926/thumbs/1DE3D0591D-9f90.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "67",
+            "tahun": "2001",
+            "judul": "Harry Potter and the Sorcerer's Stone",
+            "genre": "Adventure  \u2022  Based-on-20th-Century-Literature  \u2022  Family-Oriented Adventure",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2001/thumbs/1FC4A971E9-d1bb.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "68",
+            "tahun": "2003",
+            "judul": "X2",
+            "genre": "Action  \u2022  Based-on-Comics  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2003/thumbs/C75572E0A0-a8d4.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "69",
+            "tahun": "2011",
+            "judul": "Midnight in Paris",
+            "genre": "Comedy  \u2022  Fantasy  \u2022  Magic Realism",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2011/thumbs/B79091A884-39c7.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "70",
+            "tahun": "2011",
+            "judul": "X-Men: First Class",
+            "genre": "Action  \u2022  Based-on-Comics  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2011/thumbs/CBDC991BDE-a52a.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "71",
+            "tahun": "2006",
+            "judul": "The Fall",
+            "genre": "Adventure Drama  \u2022  Adventure  \u2022  Drama",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2006/thumbs/the_fall_ver3.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "72",
+            "tahun": "1940",
+            "judul": "Fantasia",
+            "genre": "Animated Musical  \u2022  Animation  \u2022  Family",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1940/thumbs/51260764B5-aef4.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "73",
+            "tahun": "1974",
+            "judul": "Phantom of the Paradise",
+            "genre": "Based-on-20th-Century-Literature  \u2022  Comedy  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1974/thumbs/56E730E6C2-096e.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "74",
+            "tahun": "2005",
+            "judul": "Harry Potter and the Goblet of Fire",
+            "genre": "Adventure  \u2022  Based-on-20th-Century-Literature  \u2022  Family-Oriented Adventure",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2005/thumbs/harry_potter_and_the_goblet_of_fire_ver14.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "75",
+            "tahun": "2011",
+            "judul": "The Tree of Life",
+            "genre": "Childhood Drama  \u2022  Drama  \u2022  Family Drama",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2011/thumbs/C2FCA3751F-7030.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "76",
+            "tahun": "1981",
+            "judul": "Time Bandits",
+            "genre": "Adventure  \u2022  Comedy  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1981/thumbs/AD335D8458-72f4.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "77",
+            "tahun": "1991",
+            "judul": "Defending Your Life",
+            "genre": "Comedy  \u2022  Fantasy Comedy  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1991/thumbs/CD892E825B-4f7e.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "78",
+            "tahun": "2010",
+            "judul": "How to Train Your Dragon",
+            "genre": "Adventure  \u2022  Animation  \u2022  Family",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2010/thumbs/435710CA6C-aa01.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "79",
+            "tahun": "1989",
+            "judul": "The Little Mermaid",
+            "genre": "Animated Musical  \u2022  Animation  \u2022  Based-on-19th-Century-Literature",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1989/thumbs/34DB7D9868-7f6b.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "80",
+            "tahun": "1964",
+            "judul": "Mary Poppins",
+            "genre": "Comedy  \u2022  Family-Oriented Comedy  \u2022  Family-Oriented Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1964/thumbs/0A38600303-63a8.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "81",
+            "tahun": "1937",
+            "judul": "Snow White and the Seven Dwarfs",
+            "genre": "Animated Musical  \u2022  Animation  \u2022  Based-on-19th-Century-Literature",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1937/thumbs/8150F0FEBA-7fc7.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "82",
+            "tahun": "2009",
+            "judul": "Harry Potter and the Half-Blood Prince",
+            "genre": "Adventure  \u2022  Based-on-21st-Century-Literature  \u2022  Family-Oriented Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2009/thumbs/harry_potter_and_the_half_blood_prince_ver8.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "83",
+            "tahun": "2007",
+            "judul": "Harry Potter and the Order of the Phoenix",
+            "genre": "Adventure  \u2022  Based-on-21st-Century-Literature  \u2022  Family-Oriented Adventure",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2007/thumbs/harry_potter_and_the_order_of_the_phoenix_ver10.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "84",
+            "tahun": "1986",
+            "judul": "Labyrinth",
+            "genre": "Adventure  \u2022  Family-Oriented Adventure  \u2022  Family-Oriented Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1986/thumbs/5B78FE8819-3793.JPG",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "85",
+            "tahun": "1989",
+            "judul": "Field of Dreams",
+            "genre": "Americana  \u2022  Drama  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1989/thumbs/4A8F61713C-3ed8.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "86",
+            "tahun": "2017",
+            "judul": "The Shape of Water",
+            "genre": "Drama  \u2022  Fantasy  \u2022  Magic Realism",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2017/thumbs/CA12FBC292-a9fc.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "87",
+            "tahun": "2013",
+            "judul": "About Time",
+            "genre": "Comedy Drama  \u2022  Drama  \u2022  Fantasy Comedy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2013/thumbs/A96F07B932-3ac1.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "88",
+            "tahun": "1992",
+            "judul": "Batman Returns",
+            "genre": "Action  \u2022  Based-on-Comics  \u2022  Fantasy",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1992/thumbs/67CD7FF1D8-c1d9.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "89",
+            "tahun": "2017",
+            "judul": "Paddington 2",
+            "genre": "Adventure Comedy  \u2022  Adventure  \u2022  Animal Picture",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2017/thumbs/5F923C1985-2198.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "90",
+            "tahun": "1991",
+            "judul": "The Fisher King",
+            "genre": "Buddy Film  \u2022  Comedy Drama  \u2022  Drama",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1991/thumbs/1BD07AFF06-9643.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "91",
+            "tahun": "2010",
+            "judul": "Harry Potter and the Deathly Hallows: Part 1",
+            "genre": "Adventure  \u2022  Based-on-21st-Century-Literature  \u2022  Fantasy Adventure",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2010/thumbs/199A5F7C26-423f.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "92",
+            "tahun": "1950",
+            "judul": "Orpheus",
+            "genre": "Drama  \u2022  Fantasy  \u2022  Foreign Language Film",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1950/thumbs/orpheus_ver1.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "93",
+            "tahun": "1947",
+            "judul": "The Ghost and Mrs. Muir",
+            "genre": "Drama  \u2022  Fantasy  \u2022  Romance",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1947/thumbs/the_ghost_and_mrs_muir_ver4.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "94",
+            "tahun": "2002",
+            "judul": "Harry Potter and the Chamber of Secrets",
+            "genre": "Adventure  \u2022  Based-on-20th-Century-Literature  \u2022  Family-Oriented Adventure",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2002/thumbs/75FF9D2EF2-0a5c.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "95",
+            "tahun": "1994",
+            "judul": "The Crow",
+            "genre": "Action Thriller  \u2022  Action  \u2022  Based-on-Comics",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1994/thumbs/AD5AEE0B0F-b5b1.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "96",
+            "tahun": "2016",
+            "judul": "Kubo and the Two Strings",
+            "genre": "Action  \u2022  Adventure  \u2022  Animation",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2016/thumbs/AC1BCC722C-2dad.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "97",
+            "tahun": "1986",
+            "judul": "Highlander",
+            "genre": "Action  \u2022  Fantasy  \u2022  Sword-and-Sorcery",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/1986/thumbs/FF402E2CD7-0dc6.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "98",
+            "tahun": "2016",
+            "judul": "Doctor Strange",
+            "genre": "Action  \u2022  Adventure  \u2022  Based-on-Comics",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2016/thumbs/83C049BEA5-82d3.jpeg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "99",
+            "tahun": "2012",
+            "judul": "Life of Pi",
+            "genre": "Adventure Drama  \u2022  Adventure  \u2022  Based-on-21st-Century-Literature",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2012/thumbs/B1C532038D-0553.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      },
+      {
+            "ranking": "100",
+            "tahun": "2005",
+            "judul": "Star Wars: Episode III - Revenge of the Sith",
+            "genre": "Action  \u2022  Adventure  \u2022  Cyborg / Android / Robot",
+            "img": "https://flickchartposters.blob.core.windows.net/posters/2005/thumbs/706523DB17-57fc.jpg",
+            "waktu": "2022-03-20 06:20:56"
+      }
+]
